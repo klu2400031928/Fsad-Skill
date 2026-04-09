@@ -49,3 +49,8 @@ buildNumber.properties
 # Mac
 .DS_Store
 
+# Node modules
+node_modules/
+dist/
+.env
+
