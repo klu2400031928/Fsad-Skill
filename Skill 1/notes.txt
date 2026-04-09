@@ -1,8 +1,0 @@
-Git Skill 1 - Notes
-
-- Created initial project files
-- Demonstrating git init, add, commit, branches, merge, push
-
-- Feature: updated main output message on `feature-update` branch
-- Bugfix: corrected main output message on `bug-fix` branch
-- Merged both branches into `master` and resolved conflicts
